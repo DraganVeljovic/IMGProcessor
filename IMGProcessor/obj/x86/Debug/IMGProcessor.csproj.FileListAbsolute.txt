@@ -1,0 +1,8 @@
+c:\users\dragan\documents\visual studio 2010\Projects\IMGProcessor\IMGProcessor\bin\Debug\IMGProcessor.exe
+c:\users\dragan\documents\visual studio 2010\Projects\IMGProcessor\IMGProcessor\bin\Debug\IMGProcessor.pdb
+c:\users\dragan\documents\visual studio 2010\Projects\IMGProcessor\IMGProcessor\obj\x86\Debug\IMGProcessor.Form1.resources
+c:\users\dragan\documents\visual studio 2010\Projects\IMGProcessor\IMGProcessor\obj\x86\Debug\IMGProcessor.Properties.Resources.resources
+c:\users\dragan\documents\visual studio 2010\Projects\IMGProcessor\IMGProcessor\obj\x86\Debug\IMGProcessor.csproj.GenerateResource.Cache
+c:\users\dragan\documents\visual studio 2010\Projects\IMGProcessor\IMGProcessor\obj\x86\Debug\IMGProcessor.exe
+c:\users\dragan\documents\visual studio 2010\Projects\IMGProcessor\IMGProcessor\obj\x86\Debug\IMGProcessor.pdb
+C:\Users\Dragan\Documents\Visual Studio 2010\Projects\IMGProcessor\IMGProcessor\obj\x86\Debug\IMGProcessor.csprojResolveAssemblyReference.cache
